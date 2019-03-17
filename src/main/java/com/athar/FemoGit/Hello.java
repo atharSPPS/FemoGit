@@ -4,6 +4,8 @@ public class Hello {
 
   
   ////*****************************athar********************/
+   public void show(){
+   }
 }
 
  
